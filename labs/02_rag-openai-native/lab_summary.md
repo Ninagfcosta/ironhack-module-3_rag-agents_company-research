@@ -1,0 +1,1 @@
+I built this RAG pipeline using OpenAI's native APIs, choosing `text-embedding-3-small` for efficiency and cost-effectiveness, in-memory vector storage with cosine similarity for simplicity, `gpt-4o-mini` for answer generation, and a chunking strategy with overlap to avoid losing context between chunks.
